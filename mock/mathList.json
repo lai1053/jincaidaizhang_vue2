@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "ent_id": 440,
+      "acct_code": "560202",
+      "acct_name": "租赁费",
+      "dest_acct_code": "560225",
+      "dest_acct_name": "租赁费",
+      "is_matched": 1,
+      "is_auto": 1
+    },
+    {
+      "ent_id": 440,
+      "acct_code": "560203",
+      "acct_name": "物业费",
+      "dest_acct_code": "560226",
+      "dest_acct_name": "物业费",
+      "is_matched": 1,
+      "is_auto": 1
+    },
+    {
+      "ent_id": 440,
+      "acct_code": "560204",
+      "acct_name": "水电费",
+      "dest_acct_code": "",
+      "dest_acct_name": "",
+      "is_matched": 0,
+      "is_auto": 1
+    },
+    {
+      "ent_id": 440,
+      "acct_code": "560205",
+      "acct_name": "业务招待费",
+      "dest_acct_code": "560209",
+      "dest_acct_name": "业务招待费",
+      "is_matched": 1,
+      "is_auto": 1
+    },
+    {
+      "ent_id": 440,
+      "acct_code": "560206",
+      "acct_name": "交通费",
+      "dest_acct_code": "",
+      "dest_acct_name": "",
+      "is_matched": 0,
+      "is_auto": 1
+    },
+    {
+      "ent_id": 440,
+      "acct_code": "560207",
+      "acct_name": "差旅费",
+      "dest_acct_code": "560213",
+      "dest_acct_name": "差旅费",
+      "is_matched": 1,
+      "is_auto": 1
+    },
+    {
+      "ent_id": 440,
+      "acct_code": "560208",
+      "acct_name": "通讯费",
+      "dest_acct_code": "560231",
+      "dest_acct_name": "通讯费",
+      "is_matched": 1,
+      "is_auto": 1
+    },
+    {
+      "ent_id": 440,
+      "acct_code": "560209",
+      "acct_name": "会议费",
+      "dest_acct_code": "560232",
+      "dest_acct_name": "会议费",
+      "is_matched": 1,
+      "is_auto": 1
+    },
+    {
+      "ent_id": 440,
+      "acct_code": "560213",
+      "acct_name": "福利费",
+      "dest_acct_code": "",
+      "dest_acct_name": "",
+      "is_matched": 0,
+      "is_auto": 1
+    }
+  ],
+  "yppNum": 287,
+  "falg": "succ",
+  "xppNum": 20
+}

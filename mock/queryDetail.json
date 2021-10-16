@@ -1,0 +1,37 @@
+{
+  "message": "查看明细数据成功!!!",
+  "code": "0",
+  "success": true,
+  "data": {
+    "totalTax": "1.53",
+    "totalAmount": "10.53",
+    "data": [
+      {
+        "ent_id": 223,
+        "bill_id": 2179,
+        "index_no": 1,
+        "goods_name": "123",
+        "goods_code": null,
+        "acct_20_code": "",
+        "acct_20_name": "",
+        "acct_20_ci_name": "",
+        "specification": "3",
+        "unit_name": "3",
+        "qty": 3.0,
+        "unit_price": 3.0,
+        "ex_tax_amount": 9.0,
+        "tax_amount": 1.53,
+        "tax_rate": 0.17,
+        "amount": 10.53,
+        "strAmount": "10.53",
+        "strTax_amount": "1.53",
+        "strQty": "3.0000",
+        "strUnit_price": "3.00",
+        "strEx_tax_amount": "9.00",
+        "strTax_rate": "17%",
+        "strAcctCode": null
+      }
+    ],
+    "totalPrice": "9.00"
+  }
+}

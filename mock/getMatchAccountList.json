@@ -1,0 +1,2917 @@
+{
+  "message": "获取科目匹配表数据成功",
+  "code": "0",
+  "success": true,
+  "data": [
+    {
+      "ent_id": 91,
+      "acct_code": "1001",
+      "acct_name": "库存现金",
+      "dest_acct_code": "1001",
+      "dest_acct_name": "库存现金",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "1002",
+      "acct_name": "银行存款",
+      "dest_acct_code": "1002",
+      "dest_acct_name": "银行存款",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "1012",
+      "acct_name": "其他货币资金",
+      "dest_acct_code": "1012",
+      "dest_acct_name": "其他货币资金",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "101203",
+      "acct_name": "银行本票存款",
+      "dest_acct_code": "1012",
+      "dest_acct_name": "其他货币资金",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "101204",
+      "acct_name": "银行汇票存款",
+      "dest_acct_code": "1012",
+      "dest_acct_name": "其他货币资金",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "101209",
+      "acct_name": "支付宝",
+      "dest_acct_code": "1012",
+      "dest_acct_name": "其他货币资金",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "101210",
+      "acct_name": "微信",
+      "dest_acct_code": "1012",
+      "dest_acct_name": "其他货币资金",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "1101",
+      "acct_name": "短期投资",
+      "dest_acct_code": "1101",
+      "dest_acct_name": "短期投资",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "110101",
+      "acct_name": "股票",
+      "dest_acct_code": "100202",
+      "dest_acct_name": "东莞银行东湖支行510000105001953",
+      "is_matched": 1,
+      "is_auto": 0,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "110102",
+      "acct_name": "债券",
+      "dest_acct_code": "110102",
+      "dest_acct_name": "债券",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "1121",
+      "acct_name": "应收票据",
+      "dest_acct_code": "1121",
+      "dest_acct_name": "应收票据",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "1122",
+      "acct_name": "应收账款",
+      "dest_acct_code": "100202",
+      "dest_acct_name": "东莞银行东湖支行510000105001953",
+      "is_matched": 1,
+      "is_auto": 0,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "1123",
+      "acct_name": "预付账款",
+      "dest_acct_code": "1123",
+      "dest_acct_name": "预付账款",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "1132",
+      "acct_name": "应收利息",
+      "dest_acct_code": "1132",
+      "dest_acct_name": "应收利息",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "1221",
+      "acct_name": "其他应收款",
+      "dest_acct_code": "100202",
+      "dest_acct_name": "东莞银行东湖支行510000105001953",
+      "is_matched": 1,
+      "is_auto": 0,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "1401",
+      "acct_name": "材料采购",
+      "dest_acct_code": "1401",
+      "dest_acct_name": "材料采购",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "1402",
+      "acct_name": "在途物资",
+      "dest_acct_code": "1402",
+      "dest_acct_name": "在途物资",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "1403",
+      "acct_name": "原材料",
+      "dest_acct_code": "1403",
+      "dest_acct_name": "原材料",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "1405",
+      "acct_name": "库存商品",
+      "dest_acct_code": "1405",
+      "dest_acct_name": "库存商品",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "1408",
+      "acct_name": "委托加工物资",
+      "dest_acct_code": "1408",
+      "dest_acct_name": "委托加工物资",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "1411",
+      "acct_name": "周转材料",
+      "dest_acct_code": "1411",
+      "dest_acct_name": "周转材料",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "1501",
+      "acct_name": "长期债券投资",
+      "dest_acct_code": "1501",
+      "dest_acct_name": "长期债券投资",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "150101",
+      "acct_name": "面值",
+      "dest_acct_code": "150101",
+      "dest_acct_name": "面值",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "150102",
+      "acct_name": "溢折价",
+      "dest_acct_code": "150102",
+      "dest_acct_name": "溢折价",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "1511",
+      "acct_name": "长期股权投资",
+      "dest_acct_code": "1511",
+      "dest_acct_name": "长期股权投资",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "1601",
+      "acct_name": "固定资产",
+      "dest_acct_code": "1601",
+      "dest_acct_name": "固定资产",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "160101",
+      "acct_name": "房屋、建筑物及构筑物",
+      "dest_acct_code": "160101",
+      "dest_acct_name": "房屋、建筑物及构筑物",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "160102",
+      "acct_name": "生产设备",
+      "dest_acct_code": "160102",
+      "dest_acct_name": "生产设备",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "160103",
+      "acct_name": "运输设备",
+      "dest_acct_code": "160103",
+      "dest_acct_name": "运输设备",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "160104",
+      "acct_name": "电子设备",
+      "dest_acct_code": "160104",
+      "dest_acct_name": "电子设备",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "160105",
+      "acct_name": "器具、工具、家具",
+      "dest_acct_code": "160105",
+      "dest_acct_name": "器具、工具、家具",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "160106",
+      "acct_name": "图书、档案",
+      "dest_acct_code": "160106",
+      "dest_acct_name": "图书、档案",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "160107",
+      "acct_name": "集成电路生产设备",
+      "dest_acct_code": "160107",
+      "dest_acct_name": "集成电路生产设备",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "1602",
+      "acct_name": "累计折旧",
+      "dest_acct_code": "1602",
+      "dest_acct_name": "累计折旧",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "1604",
+      "acct_name": "在建工程",
+      "dest_acct_code": "1604",
+      "dest_acct_name": "在建工程",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "1605",
+      "acct_name": "工程物资",
+      "dest_acct_code": "1605",
+      "dest_acct_name": "工程物资",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "1701",
+      "acct_name": "无形资产",
+      "dest_acct_code": "1701",
+      "dest_acct_name": "无形资产",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "170101",
+      "acct_name": "土地使用权",
+      "dest_acct_code": "170101",
+      "dest_acct_name": "土地使用权",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "170102",
+      "acct_name": "专利权",
+      "dest_acct_code": "170102",
+      "dest_acct_name": "专利权",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "170103",
+      "acct_name": "商标权",
+      "dest_acct_code": "170103",
+      "dest_acct_name": "商标权",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "170104",
+      "acct_name": "著作权",
+      "dest_acct_code": "170104",
+      "dest_acct_name": "著作权",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "170105",
+      "acct_name": "非专利技术",
+      "dest_acct_code": "170105",
+      "dest_acct_name": "非专利技术",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "1901",
+      "acct_name": "待处理财产损溢",
+      "dest_acct_code": "1901",
+      "dest_acct_name": "待处理财产损溢",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "2001",
+      "acct_name": "短期借款",
+      "dest_acct_code": "2001",
+      "dest_acct_name": "短期借款",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "2201",
+      "acct_name": "应付票据",
+      "dest_acct_code": "2201",
+      "dest_acct_name": "应付票据",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "2202",
+      "acct_name": "应付账款",
+      "dest_acct_code": "2202",
+      "dest_acct_name": "应付账款",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "2203",
+      "acct_name": "预收账款",
+      "dest_acct_code": "2203",
+      "dest_acct_name": "预收账款",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "2211",
+      "acct_name": "应付职工薪酬",
+      "dest_acct_code": "2211",
+      "dest_acct_name": "应付职工薪酬",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "221101",
+      "acct_name": "应付职工工资",
+      "dest_acct_code": "221101",
+      "dest_acct_name": "应付职工工资",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "221102",
+      "acct_name": "应付奖金、津贴和补贴",
+      "dest_acct_code": "221102",
+      "dest_acct_name": "应付奖金、津贴和补贴",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "221103",
+      "acct_name": "应付福利费",
+      "dest_acct_code": "221103",
+      "dest_acct_name": "应付福利费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "221104",
+      "acct_name": "应付社会保险费",
+      "dest_acct_code": "221104",
+      "dest_acct_name": "应付社会保险费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "22110406",
+      "acct_name": "生育保险",
+      "dest_acct_code": "22110406",
+      "dest_acct_name": "生育保险",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "22110407",
+      "acct_name": "工伤保险",
+      "dest_acct_code": "22110405",
+      "dest_acct_name": "工伤保险",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "221105",
+      "acct_name": "应付住房公积金",
+      "dest_acct_code": "221105",
+      "dest_acct_name": "应付住房公积金",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "221107",
+      "acct_name": "应付教育经费",
+      "dest_acct_code": "221107",
+      "dest_acct_name": "应付教育经费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "221108",
+      "acct_name": "非货币性福利",
+      "dest_acct_code": "221108",
+      "dest_acct_name": "非货币性福利",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "221109",
+      "acct_name": "辞退福利",
+      "dest_acct_code": "221109",
+      "dest_acct_name": "辞退福利",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "2221",
+      "acct_name": "应交税费",
+      "dest_acct_code": "2221",
+      "dest_acct_name": "应交税费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "222101",
+      "acct_name": "应交增值税",
+      "dest_acct_code": "222101",
+      "dest_acct_name": "应交增值税",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "22210101",
+      "acct_name": "进项税额",
+      "dest_acct_code": "22210101",
+      "dest_acct_name": "进项税额",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "22210102",
+      "acct_name": "销项税额抵减",
+      "dest_acct_code": "22210102",
+      "dest_acct_name": "销项税额抵减",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "22210103",
+      "acct_name": "已交税金",
+      "dest_acct_code": "22210103",
+      "dest_acct_name": "已交税金",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "22210104",
+      "acct_name": "减免税款",
+      "dest_acct_code": "22210104",
+      "dest_acct_name": "减免税款",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "22210105",
+      "acct_name": "出口抵减内销产品应纳税额",
+      "dest_acct_code": "22210105",
+      "dest_acct_name": "出口抵减内销产品应纳税额",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "22210106",
+      "acct_name": "转出未交增值税",
+      "dest_acct_code": "22210106",
+      "dest_acct_name": "转出未交增值税",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "22210107",
+      "acct_name": "销项税额",
+      "dest_acct_code": "22210107",
+      "dest_acct_name": "销项税额",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "22210108",
+      "acct_name": "出口退税",
+      "dest_acct_code": "22210108",
+      "dest_acct_name": "出口退税",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "22210109",
+      "acct_name": "进项税额转出",
+      "dest_acct_code": "22210109",
+      "dest_acct_name": "进项税额转出",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "22210110",
+      "acct_name": "转出多交增值税",
+      "dest_acct_code": "22210110",
+      "dest_acct_name": "转出多交增值税",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "222102",
+      "acct_name": "未交增值税",
+      "dest_acct_code": "222102",
+      "dest_acct_name": "未交增值税",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "222103",
+      "acct_name": "预交增值税",
+      "dest_acct_code": "222103",
+      "dest_acct_name": "预交增值税",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "222104",
+      "acct_name": "待抵扣进项税额",
+      "dest_acct_code": "222104",
+      "dest_acct_name": "待抵扣进项税额",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "222105",
+      "acct_name": "待认证进项税额",
+      "dest_acct_code": "222105",
+      "dest_acct_name": "待认证进项税额",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "222106",
+      "acct_name": "待转销项税额",
+      "dest_acct_code": "222106",
+      "dest_acct_name": "待转销项税额",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "222107",
+      "acct_name": "增值税留抵税额",
+      "dest_acct_code": "222107",
+      "dest_acct_name": "增值税留抵税额",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "222108",
+      "acct_name": "简易计税",
+      "dest_acct_code": "222108",
+      "dest_acct_name": "简易计税",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "222109",
+      "acct_name": "转让金融商品应交增值税",
+      "dest_acct_code": "222109",
+      "dest_acct_name": "转让金融商品应交增值税",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "222110",
+      "acct_name": "代扣代交增值税",
+      "dest_acct_code": "222110",
+      "dest_acct_name": "代扣代交增值税",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "222111",
+      "acct_name": "增值税检查调整",
+      "dest_acct_code": "222111",
+      "dest_acct_name": "增值税检查调整",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "222121",
+      "acct_name": "应交营业税",
+      "dest_acct_code": "222121",
+      "dest_acct_name": "应交营业税",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "222122",
+      "acct_name": "应交消费税",
+      "dest_acct_code": "222122",
+      "dest_acct_name": "应交消费税",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "222123",
+      "acct_name": "应交资源税",
+      "dest_acct_code": "222123",
+      "dest_acct_name": "应交资源税",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "222124",
+      "acct_name": "应交企业所得税",
+      "dest_acct_code": "222124",
+      "dest_acct_name": "应交企业所得税",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "222125",
+      "acct_name": "应交土地增值税",
+      "dest_acct_code": "222125",
+      "dest_acct_name": "应交土地增值税",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "222126",
+      "acct_name": "应交城市维护建设税",
+      "dest_acct_code": "222126",
+      "dest_acct_name": "应交城市维护建设税",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "222127",
+      "acct_name": "应交教育费附加",
+      "dest_acct_code": "222127",
+      "dest_acct_name": "应交教育费附加",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "222128",
+      "acct_name": "应交地方教育费附加",
+      "dest_acct_code": "222128",
+      "dest_acct_name": "应交地方教育费附加",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "222129",
+      "acct_name": "应交房产税",
+      "dest_acct_code": "222129",
+      "dest_acct_name": "应交房产税",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "222130",
+      "acct_name": "应交土地使用税",
+      "dest_acct_code": "222130",
+      "dest_acct_name": "应交土地使用税",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "222131",
+      "acct_name": "应交车船税",
+      "dest_acct_code": "222131",
+      "dest_acct_name": "应交车船税",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "222132",
+      "acct_name": "应交个人所得税",
+      "dest_acct_code": "222132",
+      "dest_acct_name": "应交个人所得税",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "222133",
+      "acct_name": "应交矿产资源补偿费",
+      "dest_acct_code": "222133",
+      "dest_acct_name": "应交矿产资源补偿费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "222134",
+      "acct_name": "应交文化事业建设费",
+      "dest_acct_code": "222134",
+      "dest_acct_name": "应交文化事业建设费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "222135",
+      "acct_name": "应交排污费",
+      "dest_acct_code": "222135",
+      "dest_acct_name": "应交排污费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "222136",
+      "acct_name": "应交印花税",
+      "dest_acct_code": "222136",
+      "dest_acct_name": "应交印花税",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "222137",
+      "acct_name": "应交堤围费",
+      "dest_acct_code": "222137",
+      "dest_acct_name": "应交堤围费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "2231",
+      "acct_name": "应付利息",
+      "dest_acct_code": "2231",
+      "dest_acct_name": "应付利息",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "2241",
+      "acct_name": "其他应付款",
+      "dest_acct_code": "2241",
+      "dest_acct_name": "其他应付款",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "2401",
+      "acct_name": "递延收益",
+      "dest_acct_code": "2401",
+      "dest_acct_name": "递延收益",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "2501",
+      "acct_name": "长期借款",
+      "dest_acct_code": "2501",
+      "dest_acct_name": "长期借款",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "2701",
+      "acct_name": "长期应付款",
+      "dest_acct_code": "2701",
+      "dest_acct_name": "长期应付款",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "3001",
+      "acct_name": "实收资本",
+      "dest_acct_code": "3001",
+      "dest_acct_name": "实收资本",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "3002",
+      "acct_name": "资本公积",
+      "dest_acct_code": "3002",
+      "dest_acct_name": "资本公积",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "4001",
+      "acct_name": "生产成本",
+      "dest_acct_code": "4001",
+      "dest_acct_name": "生产成本",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "400101",
+      "acct_name": "直接材料",
+      "dest_acct_code": "400101",
+      "dest_acct_name": "直接材料",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "400102",
+      "acct_name": "职工工资",
+      "dest_acct_code": "400102",
+      "dest_acct_name": "职工工资",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "400103",
+      "acct_name": "社会保险费",
+      "dest_acct_code": "400103",
+      "dest_acct_name": "社会保险费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "400104",
+      "acct_name": "住房公积金",
+      "dest_acct_code": "400104",
+      "dest_acct_name": "住房公积金",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "400105",
+      "acct_name": "福利费",
+      "dest_acct_code": "400105",
+      "dest_acct_name": "福利费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "400106",
+      "acct_name": "工会经费",
+      "dest_acct_code": "400106",
+      "dest_acct_name": "工会经费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "400107",
+      "acct_name": "职工教育经费",
+      "dest_acct_code": "400107",
+      "dest_acct_name": "职工教育经费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "400108",
+      "acct_name": "制造费用",
+      "dest_acct_code": "400108",
+      "dest_acct_name": "制造费用",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "4101",
+      "acct_name": "制造费用",
+      "dest_acct_code": "4101",
+      "dest_acct_name": "制造费用",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "410101",
+      "acct_name": "办公用品及办公费",
+      "dest_acct_code": "410101",
+      "dest_acct_name": "办公用品及办公费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "410102",
+      "acct_name": "租赁费",
+      "dest_acct_code": "410102",
+      "dest_acct_name": "租赁费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "410103",
+      "acct_name": "物业管理费",
+      "dest_acct_code": "410103",
+      "dest_acct_name": "物业管理费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "410104",
+      "acct_name": "水电费",
+      "dest_acct_code": "410104",
+      "dest_acct_name": "水电费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "410105",
+      "acct_name": "交通费",
+      "dest_acct_code": "410105",
+      "dest_acct_name": "交通费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "410106",
+      "acct_name": "差旅费",
+      "dest_acct_code": "410106",
+      "dest_acct_name": "差旅费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "410107",
+      "acct_name": "通讯费",
+      "dest_acct_code": "410107",
+      "dest_acct_name": "通讯费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "410108",
+      "acct_name": "会议费",
+      "dest_acct_code": "410108",
+      "dest_acct_name": "会议费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "410109",
+      "acct_name": "职工工资",
+      "dest_acct_code": "410109",
+      "dest_acct_name": "职工工资",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "410110",
+      "acct_name": "社会保险费",
+      "dest_acct_code": "410110",
+      "dest_acct_name": "社会保险费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "410111",
+      "acct_name": "住房公积金",
+      "dest_acct_code": "410111",
+      "dest_acct_name": "住房公积金",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "410112",
+      "acct_name": "福利费",
+      "dest_acct_code": "410112",
+      "dest_acct_name": "福利费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "410113",
+      "acct_name": "工会经费",
+      "dest_acct_code": "410113",
+      "dest_acct_name": "工会经费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "410114",
+      "acct_name": "职工教育经费",
+      "dest_acct_code": "410114",
+      "dest_acct_name": "职工教育经费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "410115",
+      "acct_name": "网络使用费",
+      "dest_acct_code": "410115",
+      "dest_acct_name": "网络使用费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "410116",
+      "acct_name": "车辆使用费",
+      "dest_acct_code": "410116",
+      "dest_acct_name": "车辆使用费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "410117",
+      "acct_name": "折旧费",
+      "dest_acct_code": "410117",
+      "dest_acct_name": "折旧费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "410118",
+      "acct_name": "摊销费",
+      "dest_acct_code": "410118",
+      "dest_acct_name": "摊销费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "410119",
+      "acct_name": "旅游费",
+      "dest_acct_code": "410119",
+      "dest_acct_name": "旅游费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "410120",
+      "acct_name": "劳保费",
+      "dest_acct_code": "410120",
+      "dest_acct_name": "劳保费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "410122",
+      "acct_name": "修理费",
+      "dest_acct_code": "410122",
+      "dest_acct_name": "修理费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "410123",
+      "acct_name": "快递物流费",
+      "dest_acct_code": "410123",
+      "dest_acct_name": "快递物流费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "410124",
+      "acct_name": "培训费",
+      "dest_acct_code": "410125",
+      "dest_acct_name": "培训费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "410125",
+      "acct_name": "劳务费",
+      "dest_acct_code": "410126",
+      "dest_acct_name": "劳务费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "410126",
+      "acct_name": "仓储费",
+      "dest_acct_code": "410127",
+      "dest_acct_name": "仓储费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "410199",
+      "acct_name": "其他",
+      "dest_acct_code": "410199",
+      "dest_acct_name": "其他",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "4201",
+      "acct_name": "劳务成本",
+      "dest_acct_code": "4002",
+      "dest_acct_name": "劳务成本",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "420101",
+      "acct_name": "直接材料",
+      "dest_acct_code": "400201",
+      "dest_acct_name": "直接材料",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "420102",
+      "acct_name": "职工工资",
+      "dest_acct_code": "400202",
+      "dest_acct_name": "职工工资",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "420103",
+      "acct_name": "社会保险费",
+      "dest_acct_code": "400203",
+      "dest_acct_name": "社会保险费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "420104",
+      "acct_name": "住房公积金",
+      "dest_acct_code": "400204",
+      "dest_acct_name": "住房公积金",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "420105",
+      "acct_name": "福利费",
+      "dest_acct_code": "400205",
+      "dest_acct_name": "福利费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "420106",
+      "acct_name": "工会经费",
+      "dest_acct_code": "400206",
+      "dest_acct_name": "工会经费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "420107",
+      "acct_name": "职工教育经费",
+      "dest_acct_code": "400207",
+      "dest_acct_name": "职工教育经费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "420108",
+      "acct_name": "办公用品及办公费",
+      "dest_acct_code": "400208",
+      "dest_acct_name": "办公用品及办公费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "420109",
+      "acct_name": "租赁费",
+      "dest_acct_code": "400209",
+      "dest_acct_name": "租赁费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "420110",
+      "acct_name": "物业费",
+      "dest_acct_code": "400210",
+      "dest_acct_name": "物业费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "420111",
+      "acct_name": "水电费",
+      "dest_acct_code": "400211",
+      "dest_acct_name": "水电费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "420112",
+      "acct_name": "交通费",
+      "dest_acct_code": "400212",
+      "dest_acct_name": "交通费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "420113",
+      "acct_name": "差旅费",
+      "dest_acct_code": "400213",
+      "dest_acct_name": "差旅费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "420114",
+      "acct_name": "通讯费",
+      "dest_acct_code": "400214",
+      "dest_acct_name": "通讯费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "420115",
+      "acct_name": "会议费",
+      "dest_acct_code": "400215",
+      "dest_acct_name": "会议费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "420116",
+      "acct_name": "网络使用费",
+      "dest_acct_code": "400216",
+      "dest_acct_name": "网络使用费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "420117",
+      "acct_name": "车辆使用费",
+      "dest_acct_code": "400217",
+      "dest_acct_name": "车辆使用费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "420118",
+      "acct_name": "折旧费",
+      "dest_acct_code": "400218",
+      "dest_acct_name": "折旧费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "420119",
+      "acct_name": "摊销费",
+      "dest_acct_code": "400219",
+      "dest_acct_name": "摊销费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "420120",
+      "acct_name": "旅游费",
+      "dest_acct_code": "400220",
+      "dest_acct_name": "旅游费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "420121",
+      "acct_name": "劳保费",
+      "dest_acct_code": "400221",
+      "dest_acct_name": "劳保费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "420123",
+      "acct_name": "修理费",
+      "dest_acct_code": "400223",
+      "dest_acct_name": "修理费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "420124",
+      "acct_name": "快递物流费",
+      "dest_acct_code": "400224",
+      "dest_acct_name": "快递物流费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "420125",
+      "acct_name": "培训费",
+      "dest_acct_code": "400225",
+      "dest_acct_name": "培训费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "420126",
+      "acct_name": "劳务费",
+      "dest_acct_code": "400226",
+      "dest_acct_name": "劳务费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "420127",
+      "acct_name": "仓储费",
+      "dest_acct_code": "400227",
+      "dest_acct_name": "仓储费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "420199",
+      "acct_name": "其他",
+      "dest_acct_code": "400299",
+      "dest_acct_name": "其他",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "4301",
+      "acct_name": "研发支出",
+      "dest_acct_code": "4301",
+      "dest_acct_name": "研发支出",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "430101",
+      "acct_name": "费用化支出",
+      "dest_acct_code": "430101",
+      "dest_acct_name": "费用化支出",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "43010101",
+      "acct_name": "人员人工",
+      "dest_acct_code": "43010101",
+      "dest_acct_name": "人员人工",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "43010102",
+      "acct_name": "社会保险费",
+      "dest_acct_code": "43010102",
+      "dest_acct_name": "社会保险费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "43010103",
+      "acct_name": "住房公积金",
+      "dest_acct_code": "43010103",
+      "dest_acct_name": "住房公积金",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "43010104",
+      "acct_name": "直接投入",
+      "dest_acct_code": "43010104",
+      "dest_acct_name": "直接投入",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "43010105",
+      "acct_name": "折旧费用",
+      "dest_acct_code": "43010105",
+      "dest_acct_name": "折旧费用",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "43010106",
+      "acct_name": "无形资产摊销",
+      "dest_acct_code": "43010106",
+      "dest_acct_name": "无形资产摊销",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "43010107",
+      "acct_name": "新产品设计费等",
+      "dest_acct_code": "43010107",
+      "dest_acct_name": "新产品设计费等",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "43010108",
+      "acct_name": "其他费用",
+      "dest_acct_code": "43010108",
+      "dest_acct_name": "其他费用",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "43010109",
+      "acct_name": "委托研发投入",
+      "dest_acct_code": "43010109",
+      "dest_acct_name": "委托研发投入",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "430102",
+      "acct_name": "资本化支出",
+      "dest_acct_code": "430102",
+      "dest_acct_name": "资本化支出",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "43010201",
+      "acct_name": "职工工资",
+      "dest_acct_code": "43010201",
+      "dest_acct_name": "职工工资",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "43010202",
+      "acct_name": "社会保险费",
+      "dest_acct_code": "43010202",
+      "dest_acct_name": "社会保险费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "43010203",
+      "acct_name": "住房公积金",
+      "dest_acct_code": "43010203",
+      "dest_acct_name": "住房公积金",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "43010204",
+      "acct_name": "直接投入",
+      "dest_acct_code": "43010204",
+      "dest_acct_name": "直接投入",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "43010205",
+      "acct_name": "折旧费用",
+      "dest_acct_code": "43010205",
+      "dest_acct_name": "折旧费用",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "43010206",
+      "acct_name": "无形资产摊销",
+      "dest_acct_code": "43010206",
+      "dest_acct_name": "无形资产摊销",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "43010207",
+      "acct_name": "新产品设计费等",
+      "dest_acct_code": "43010207",
+      "dest_acct_name": "新产品设计费等",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "43010208",
+      "acct_name": "其他费用",
+      "dest_acct_code": "43010208",
+      "dest_acct_name": "其他费用",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "43010209",
+      "acct_name": "委托研发投入",
+      "dest_acct_code": "43010209",
+      "dest_acct_name": "委托研发投入",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "4401",
+      "acct_name": "工程施工",
+      "dest_acct_code": "4401",
+      "dest_acct_name": "工程施工",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "4403",
+      "acct_name": "机械作业",
+      "dest_acct_code": "4403",
+      "dest_acct_name": "机械作业",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "5001",
+      "acct_name": "主营业务收入",
+      "dest_acct_code": "500101",
+      "dest_acct_name": "商品销售收入",
+      "is_matched": 1,
+      "is_auto": 0,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "5051",
+      "acct_name": "其他业务收入",
+      "dest_acct_code": "5051",
+      "dest_acct_name": "其他业务收入",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "5111",
+      "acct_name": "投资收益",
+      "dest_acct_code": "5111",
+      "dest_acct_name": "投资收益",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "5301",
+      "acct_name": "营业外收入",
+      "dest_acct_code": "5301",
+      "dest_acct_name": "营业外收入",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "530101",
+      "acct_name": "非流动资产处置净收益",
+      "dest_acct_code": "530101",
+      "dest_acct_name": "非流动资产处置净收益",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "530102",
+      "acct_name": "政府补助",
+      "dest_acct_code": "530102",
+      "dest_acct_name": "政府补助",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "530103",
+      "acct_name": "捐赠收益",
+      "dest_acct_code": "530103",
+      "dest_acct_name": "捐赠收益",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "530109",
+      "acct_name": "汇兑收益",
+      "dest_acct_code": "530109",
+      "dest_acct_name": "汇兑收益",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "530110",
+      "acct_name": "罚款及违约金收益",
+      "dest_acct_code": "530110",
+      "dest_acct_name": "罚款及违约金收益",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "5401",
+      "acct_name": "主营业务成本",
+      "dest_acct_code": "5401",
+      "dest_acct_name": "主营业务成本",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "5403",
+      "acct_name": "税金及附加",
+      "dest_acct_code": "5403",
+      "dest_acct_name": "税金及附加",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "5601",
+      "acct_name": "销售费用",
+      "dest_acct_code": "5601",
+      "dest_acct_name": "销售费用",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560101",
+      "acct_name": "办公用品及办公费",
+      "dest_acct_code": "560128",
+      "dest_acct_name": "办公用品及办公费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560102",
+      "acct_name": "租赁费",
+      "dest_acct_code": "560116",
+      "dest_acct_name": "租赁费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560103",
+      "acct_name": "物业费",
+      "dest_acct_code": "560117",
+      "dest_acct_name": "物业费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560104",
+      "acct_name": "水电费",
+      "dest_acct_code": "560129",
+      "dest_acct_name": "水电费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560105",
+      "acct_name": "业务招待费",
+      "dest_acct_code": "560126",
+      "dest_acct_name": "业务招待费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560106",
+      "acct_name": "交通费",
+      "dest_acct_code": "560121",
+      "dest_acct_name": "交通费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560107",
+      "acct_name": "差旅费",
+      "dest_acct_code": "560127",
+      "dest_acct_name": "差旅费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560108",
+      "acct_name": "会议费",
+      "dest_acct_code": "560123",
+      "dest_acct_name": "会议费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560109",
+      "acct_name": "通讯费",
+      "dest_acct_code": "560122",
+      "dest_acct_name": "通讯费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560110",
+      "acct_name": "职工工资",
+      "dest_acct_code": "560101",
+      "dest_acct_name": "职工工资",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560111",
+      "acct_name": "社会保险费",
+      "dest_acct_code": "560102",
+      "dest_acct_name": "社会保险费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560112",
+      "acct_name": "住房公积金",
+      "dest_acct_code": "560103",
+      "dest_acct_name": "住房公积金",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560113",
+      "acct_name": "福利费",
+      "dest_acct_code": "560104",
+      "dest_acct_name": "福利费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560114",
+      "acct_name": "工会经费",
+      "dest_acct_code": "560105",
+      "dest_acct_name": "工会经费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560115",
+      "acct_name": "职工教育经费",
+      "dest_acct_code": "560106",
+      "dest_acct_name": "职工教育经费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560117",
+      "acct_name": "保险费",
+      "dest_acct_code": "560111",
+      "dest_acct_name": "保险费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560119",
+      "acct_name": "广告宣传费",
+      "dest_acct_code": "560112",
+      "dest_acct_name": "广告宣传费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560120",
+      "acct_name": "网络使用费",
+      "dest_acct_code": "560119",
+      "dest_acct_name": "网络使用费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560121",
+      "acct_name": "展览费",
+      "dest_acct_code": "560113",
+      "dest_acct_name": "展览费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560122",
+      "acct_name": "商品维修费",
+      "dest_acct_code": "560107",
+      "dest_acct_name": "商品维修费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560124",
+      "acct_name": "包装费",
+      "dest_acct_code": "560110",
+      "dest_acct_name": "包装费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560125",
+      "acct_name": "运输费",
+      "dest_acct_code": "560108",
+      "dest_acct_name": "运输费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560126",
+      "acct_name": "装卸费",
+      "dest_acct_code": "560109",
+      "dest_acct_name": "装卸费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560127",
+      "acct_name": "运输合理损耗",
+      "dest_acct_code": "560114",
+      "dest_acct_name": "运输合理损耗",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560128",
+      "acct_name": "入库前挑选整理费",
+      "dest_acct_code": "560115",
+      "dest_acct_name": "入库前挑选整理费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560129",
+      "acct_name": "固定资产折旧费",
+      "dest_acct_code": "560132",
+      "dest_acct_name": "固定资产折旧费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560131",
+      "acct_name": "无形资产摊销费",
+      "dest_acct_code": "560133",
+      "dest_acct_name": "无形资产摊销费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560132",
+      "acct_name": "车辆使用费",
+      "dest_acct_code": "560120",
+      "dest_acct_name": "车辆使用费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560133",
+      "acct_name": "劳保费",
+      "dest_acct_code": "560118",
+      "dest_acct_name": "劳保费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560134",
+      "acct_name": "旅游费",
+      "dest_acct_code": "560131",
+      "dest_acct_name": "旅游费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560135",
+      "acct_name": "周转材料摊销",
+      "dest_acct_code": "560134",
+      "dest_acct_name": "周转材料摊销",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560136",
+      "acct_name": "修理费",
+      "dest_acct_code": "560124",
+      "dest_acct_name": "修理费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560137",
+      "acct_name": "快递物流费",
+      "dest_acct_code": "560125",
+      "dest_acct_name": "快递物流费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560138",
+      "acct_name": "培训费",
+      "dest_acct_code": "560130",
+      "dest_acct_name": "培训费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560139",
+      "acct_name": "劳务费",
+      "dest_acct_code": "560135",
+      "dest_acct_name": "劳务费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560140",
+      "acct_name": "仓储费",
+      "dest_acct_code": "560136",
+      "dest_acct_name": "仓储费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "5602",
+      "acct_name": "管理费用",
+      "dest_acct_code": "5602",
+      "dest_acct_name": "管理费用",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560201",
+      "acct_name": "办公用品及办公费",
+      "dest_acct_code": "560208",
+      "dest_acct_name": "办公用品及办公费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560202",
+      "acct_name": "租赁费",
+      "dest_acct_code": "560225",
+      "dest_acct_name": "租赁费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560203",
+      "acct_name": "物业费",
+      "dest_acct_code": "560226",
+      "dest_acct_name": "物业费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560204",
+      "acct_name": "水电费",
+      "dest_acct_code": "560212",
+      "dest_acct_name": "水电费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560205",
+      "acct_name": "业务招待费",
+      "dest_acct_code": "560209",
+      "dest_acct_name": "业务招待费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560206",
+      "acct_name": "交通费",
+      "dest_acct_code": "560230",
+      "dest_acct_name": "交通费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560207",
+      "acct_name": "差旅费",
+      "dest_acct_code": "560213",
+      "dest_acct_name": "差旅费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560208",
+      "acct_name": "通讯费",
+      "dest_acct_code": "560231",
+      "dest_acct_name": "通讯费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560209",
+      "acct_name": "会议费",
+      "dest_acct_code": "560232",
+      "dest_acct_name": "会议费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560210",
+      "acct_name": "职工工资",
+      "dest_acct_code": "560201",
+      "dest_acct_name": "职工工资",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560211",
+      "acct_name": "社会保险费",
+      "dest_acct_code": "560202",
+      "dest_acct_name": "社会保险费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560212",
+      "acct_name": "住房公积金",
+      "dest_acct_code": "560203",
+      "dest_acct_name": "住房公积金",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560213",
+      "acct_name": "福利费",
+      "dest_acct_code": "560204",
+      "dest_acct_name": "福利费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560214",
+      "acct_name": "工会经费",
+      "dest_acct_code": "560205",
+      "dest_acct_name": "工会经费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560215",
+      "acct_name": "职工教育经费",
+      "dest_acct_code": "560206",
+      "dest_acct_name": "职工教育经费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560216",
+      "acct_name": "辞退福利",
+      "dest_acct_code": "560207",
+      "dest_acct_name": "辞退福利",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560218",
+      "acct_name": "聘请中介机构费",
+      "dest_acct_code": "560220",
+      "dest_acct_name": "聘请中介机构费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560219",
+      "acct_name": "咨询费",
+      "dest_acct_code": "560221",
+      "dest_acct_name": "咨询费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560220",
+      "acct_name": "网络使用费",
+      "dest_acct_code": "560228",
+      "dest_acct_name": "网络使用费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560221",
+      "acct_name": "诉讼费",
+      "dest_acct_code": "560222",
+      "dest_acct_name": "诉讼费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560225",
+      "acct_name": "保险费",
+      "dest_acct_code": "560219",
+      "dest_acct_name": "保险费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560226",
+      "acct_name": "车辆使用费",
+      "dest_acct_code": "560229",
+      "dest_acct_name": "车辆使用费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560229",
+      "acct_name": "研究费用",
+      "dest_acct_code": "560223",
+      "dest_acct_name": "研究费用",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560231",
+      "acct_name": "固定资产折旧费",
+      "dest_acct_code": "560215",
+      "dest_acct_name": "固定资产折旧费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560232",
+      "acct_name": "长期待摊费用摊销",
+      "dest_acct_code": "560217",
+      "dest_acct_name": "长期待摊费用摊销",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560233",
+      "acct_name": "无形资产摊销费",
+      "dest_acct_code": "560216",
+      "dest_acct_name": "无形资产摊销费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560236",
+      "acct_name": "广告宣传费",
+      "dest_acct_code": "560224",
+      "dest_acct_name": "广告宣传费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560237",
+      "acct_name": "旅游费",
+      "dest_acct_code": "560235",
+      "dest_acct_name": "旅游费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560238",
+      "acct_name": "劳保费",
+      "dest_acct_code": "560227",
+      "dest_acct_name": "劳保费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560239",
+      "acct_name": "周转材料摊销",
+      "dest_acct_code": "560214",
+      "dest_acct_name": "周转材料摊销",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560240",
+      "acct_name": "修理费",
+      "dest_acct_code": "560211",
+      "dest_acct_name": "修理费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560241",
+      "acct_name": "开办费",
+      "dest_acct_code": "560210",
+      "dest_acct_name": "开办费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560242",
+      "acct_name": "快递物流费",
+      "dest_acct_code": "560233",
+      "dest_acct_name": "快递物流费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560243",
+      "acct_name": "培训费",
+      "dest_acct_code": "560234",
+      "dest_acct_name": "培训费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560244",
+      "acct_name": "残保金",
+      "dest_acct_code": "560236",
+      "dest_acct_name": "残保金",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560245",
+      "acct_name": "劳务费",
+      "dest_acct_code": "560237",
+      "dest_acct_name": "劳务费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560246",
+      "acct_name": "仓储费",
+      "dest_acct_code": "560238",
+      "dest_acct_name": "仓储费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "5603",
+      "acct_name": "财务费用",
+      "dest_acct_code": "5603",
+      "dest_acct_name": "财务费用",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560301",
+      "acct_name": "利息费用",
+      "dest_acct_code": "560301",
+      "dest_acct_name": "利息费用",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560302",
+      "acct_name": "利息收入",
+      "dest_acct_code": "560305",
+      "dest_acct_name": "利息收入",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560303",
+      "acct_name": "汇兑损失",
+      "dest_acct_code": "560302",
+      "dest_acct_name": "汇兑损失",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560304",
+      "acct_name": "银行手续费",
+      "dest_acct_code": "560303",
+      "dest_acct_name": "银行手续费",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "560305",
+      "acct_name": "现金折扣",
+      "dest_acct_code": "560304",
+      "dest_acct_name": "现金折扣",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "5711",
+      "acct_name": "营业外支出",
+      "dest_acct_code": "5711",
+      "dest_acct_name": "营业外支出",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "571103",
+      "acct_name": "捐赠支出",
+      "dest_acct_code": "571103",
+      "dest_acct_name": "捐赠支出",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "571105",
+      "acct_name": "坏账损失",
+      "dest_acct_code": "571105",
+      "dest_acct_name": "坏账损失",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "571110",
+      "acct_name": "税收滞纳金",
+      "dest_acct_code": "571110",
+      "dest_acct_name": "税收滞纳金",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "571111",
+      "acct_name": "罚没损失",
+      "dest_acct_code": "571111",
+      "dest_acct_name": "罚没损失",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "57111101",
+      "acct_name": "行政罚款",
+      "dest_acct_code": "57111101",
+      "dest_acct_name": "行政罚款",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "571199",
+      "acct_name": "其他营业外支出",
+      "dest_acct_code": "571199",
+      "dest_acct_name": "其他营业外支出",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    },
+    {
+      "ent_id": 91,
+      "acct_code": "5801",
+      "acct_name": "所得税费用",
+      "dest_acct_code": "5801",
+      "dest_acct_name": "所得税费用",
+      "is_matched": 1,
+      "is_auto": 1,
+      "qyid": null
+    }
+  ]
+}

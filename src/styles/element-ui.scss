@@ -1,0 +1,420 @@
+//覆盖一些element-ui样式 覆盖css样式可在这里添加
+$main-color: #1ab394;
+$focus-border-color: #4ba285;
+button, input, optgroup, select, textarea {
+  font-family: Microsoft YaHei, Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Arial, sans-serif;
+}
+
+.el-upload {
+  input[type="file"] {
+    display: none !important;
+  }
+}
+
+.el-upload__input {
+  display: none;
+}
+
+//暂时性解决diolag 问题 https://github.com/ElemeFE/element/issues/2461
+.el-dialog {
+  transform: none;
+  left: 0;
+  position: relative;
+  margin: 0 auto;
+}
+
+//element ui upload
+.upload-container {
+  .el-upload {
+    width: 100%;
+    .el-upload-dragger {
+      width: 100%;
+      height: 200px;
+    }
+  }
+}
+
+body {
+  padding-right: 0 !important;
+  overflow-y: hidden;
+}
+
+.el-table {
+  font-size: 13px;
+  .cell {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+.el-table {
+  tr {
+    td:first-child {
+      border-left: 1px solid transparent;
+    }
+    td:last-child {
+      border-right: 1px solid transparent;
+    }
+    td {
+      border-top: 1px solid transparent;
+      border-bottom: 1px solid transparent;
+    }
+    &:hover, &:focus {
+      td:first-child {
+        border-left: 1px solid #1ab394;
+      }
+      td:last-child {
+        border-right: 1px solid #1ab394;
+      }
+      td {
+        border-top: 1px solid #1ab394;
+        border-bottom: 1px solid #1ab394;
+      }
+    }
+  }
+
+}
+.el-table td, .el-table th {
+  padding: 2px 0 3px 0;
+}
+
+.el-table td, .el-table th.is-leaf {
+  border-bottom: 0;
+}
+
+.el-table thead tr, .el-table thead th.is-leaf {
+  border-bottom: 1px solid #e7ebf5;
+}
+
+.el-table__expanded-cell[class*=cell] {
+  padding: 0;
+}
+
+.el-button + .el-button {
+  margin-left: 5px;
+}
+
+.voucher-modal {
+  .el-dialog__body {
+    padding: 0;
+    .el-button-group .el-button--primary:last-child {
+      border-left-color: #b3d8ff;
+    }
+  }
+}
+
+.vue-table.el-table::before {
+  height: 0;
+}
+.vue-border-table.el-table::before {
+  height: 1px;
+}
+
+.el-icon-circle-plus-outline, .el-icon-circle-close-outline {
+  font-size: 18px;
+}
+
+.el-icon-circle-plus-outline {
+  color: #CCCCCC;
+}
+
+.el-icon-circle-close-outline {
+  color: #F56C6C;
+}
+.el-button {
+  border-radius: 3px;
+}
+.button-com.el-button:focus, .button-com.el-button:hover {
+  color: $focus-border-color;
+  border-color: #93d7c0;
+  background-color: #f9fbfb;
+}
+.button-com.el-button:active {
+  color: $main-color;
+  border-color: $main-color;
+}
+.el-button--primary {
+  background-color: $main-color;
+  border-color: $main-color;
+  color: #ffffff;
+}
+
+.el-button--primary:focus, .el-button--primary:hover {
+  background-color: #4ba285;
+  border-color: $focus-border-color;
+  color: #ffffff;
+}
+.el-button--text:focus, .el-button--text:hover{
+  color: $focus-border-color
+}
+.el-loading-spinner i {
+  color: $main-color;
+}
+
+.el-loading-spinner .el-loading-text {
+  color: $main-color;
+}
+
+.el-select-dropdown__item.selected {
+  color: $main-color;
+}
+.el-select {
+  width: 100%;
+}
+.el-select .el-input.is-focus .el-input__inner {
+  border-color: $main-color;
+}
+
+.el-dropdown-menu {
+  .el-dropdown-menu__item:focus, .el-dropdown-menu__item:hover {
+    color: #2ab599;
+  }
+}
+
+.el-input.is-active .el-input__inner, .el-input__inner:focus {
+  border-color: $focus-border-color;
+}
+
+.el-input__inner {
+  border-radius: 3px;
+}
+
+.el-input-group__append {
+  background-color: $main-color;
+  border: none;
+  color: #ffffff;
+}
+
+.vue-a {
+  color: $main-color;
+}
+
+.el-checkbox__input.is-checked + .el-checkbox__label {
+  color: $main-color;
+}
+
+.el-checkbox__input.is-checked .el-checkbox__inner, .el-checkbox__input.is-indeterminate .el-checkbox__inner {
+  background-color: $main-color;
+  border-color: $main-color;
+}
+
+.el-checkbox__inner:hover, .el-checkbox__input.is-focus .el-checkbox__inner {
+  border-color: $main-color;
+}
+.main-dialog {
+  .el-dialog__body {
+    padding: 10px 20px 10px 20px;
+  }
+}
+
+.el-button--primary.is-disabled, .el-button--primary.is-disabled:active, .el-button--primary.is-disabled:focus, .el-button--primary.is-disabled:hover {
+  background-color: $main-color;
+  border-color: $main-color;
+  color: #ffffff;
+}
+.el-radio__input.is-checked .el-radio__inner {
+  border-color: $main-color;
+  background: $main-color;
+}
+.el-radio__input.is-checked+.el-radio__label {
+  color: $main-color;
+}
+.el-radio__inner:hover {
+  border-color: $main-color;
+}
+.el-select .el-input__inner:focus {
+  border-color: $main-color;
+}
+.vertical-center-modal {
+  .el-dialog__body {
+    padding: 10px 30px;
+  }
+  .el-dialog__footer {
+    padding: 10px 20px;
+  }
+}
+.vue-table-main.el-table .cell {
+  padding-left: 10px;
+  padding-right: 10px;
+  line-height: 20px;
+}
+.vue-table-main.el-table--border td:first-child .cell, .vue-table-main.el-table--border th:first-child .cell {
+  padding-left: 6px;
+  padding-right: 6px;
+}
+.vue-table-main.el-table thead tr, .vue-table-main.el-table thead th.is-leaf {
+  border-bottom: 1px solid #f3f3f8;
+}
+.vue-table-main.el-table--border td {
+  border-right: none;
+}
+.vue-table-main.el-table--border th {
+  border-right: 1px solid #f3f3f8;
+}
+.el-table--border::after, .el-table--group::after {
+  width: 0;
+}
+.el-input__icon {
+  line-height: 30px;
+}
+.el-message {
+  top: 50%;
+  margin-top: -30px;
+  z-index: 99999 !important;
+}
+.el-message-box__wrapper{
+  z-index: 99997 !important;
+}
+
+.el-message-box__status+.el-message-box__message {
+  max-height: 200px;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+.el-tabs--border-card>.el-tabs__header {
+  border-bottom: none;
+  height: 28px;
+  line-height: 28px;
+}
+.el-loading-fade-enter {
+  opacity: 0.8;
+}
+.pagination-box {
+  height: 36px;
+}
+.footer-pagination.el-pagination::after, .footer-pagination.el-pagination::before {
+  display: inline;
+}
+.footer-pagination.el-pagination {
+  padding: 8px 0 0 0;
+  height: 40px;
+  float: right;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  span.el-pagination__sizes{
+    height: 28px!important;
+  }
+  .el-select .el-input .el-input__inner{
+    height: 28px!important;
+  }
+  .el-pager li.active, .el-pager li:hover {
+    color: $main-color;
+  }
+  .el-input__inner:hover, .el-input__inner:focus {
+    border-color: $main-color;
+  }
+  .el-pagination__total {
+    margin-right: 4px;
+  }
+  .el-pagination__jump {
+    margin-left: 0;
+  }
+  .el-pagination__sizes {
+    margin: 0;
+  }
+  .el-select .el-input {
+    width: 90px;
+    margin: 0;
+  }
+  .el-pager li {
+    min-width: 32px;
+  }
+}
+.auto-complete {
+  .el-select-dropdown__empty {
+    display: none;
+  }
+}
+
+.el-message-box {
+  .el-message-box__header {
+    padding: 15px 15px 0 50px;
+  }
+  .el-message-box__title {
+    margin-top: 10px;
+    font-size: 15px;
+  }
+  .el-message-box__status {
+    top: -8px;
+    font-size: 18px !important;
+    left: 24px;
+  }
+  .el-message-box__btns {
+    padding: 10px 15px 0;
+  }
+}
+
+.el-form-item {
+  margin-bottom: 10px;
+}
+.el-dialog__body {
+  font-size: 13px;
+  padding: 10px 30px;
+}
+.el-dialog__footer {
+  padding: 10px 30px;
+  background-color: #F5F6F7;
+}
+.pending-modal {
+  .el-dialog__body {
+    padding: 10px 30px;
+  }
+  .el-dialog__footer {
+    padding: 10px 30px;
+  }
+}
+.el-tooltip__popper.is-dark {
+  background: #fafffd;
+  color: #666666;
+  border: 1px dashed $main-color;
+  //transition: 0s;  //如果需要非过渡效果打开即可
+}
+.el-tooltip__popper.is-dark[x-placement^=top] .popper__arrow {
+  border-top-style: dashed;
+  border-top-color: $main-color;
+}
+.el-tooltip__popper[x-placement^=top] .popper__arrow::after{
+  border-top-color: #fafffd;
+}
+.el-tooltip__popper.is-dark[x-placement^=bottom] .popper__arrow {
+  border-bottom-style: dashed;
+  border-bottom-color: $main-color;
+}
+.el-tooltip__popper[x-placement^=bottom] .popper__arrow::after{
+  border-bottom-color: #fafffd;
+}
+.el-input__inner, .el-button--mini, .el-button--small {
+  font-size: 13px;
+}
+.el-table {
+  border-top: 1px solid #ebeef5;
+  .has-gutter th, .has-gutter tr {
+    background-color: #fafafa;
+  }
+  thead tr, thead th.is-leaf {
+    border-bottom: none;
+  }
+}
+.el-table--border, .el-table--group {
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+}
+.v-modal {
+  background: rgba(232, 232, 232, 0.8);
+}
+.el-loading-mask {
+  background: rgba(232, 232, 232, 0.8) !important;
+  z-index: 9998 !important;
+}
+.el-input--small .el-input__inner {
+  height: 34px;
+  line-height: 34px;
+}
+.el-table thead.is-group th{
+  border-right: 1px solid #f3f3f8;
+  background: #fafafa;
+  border-bottom: 1px solid #f3f3f8;
+}
+
+

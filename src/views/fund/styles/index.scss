@@ -1,0 +1,49 @@
+.fund-page {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  .disable-import{
+    background: url(../images/disable-import.png) no-repeat center;
+  }
+  .fund-page-box {
+    background: url(../images/import2.png) no-repeat center;
+  }
+  .fund-page-box:hover, .fund-page-box:focus {
+    background: url(../images/import1.png) no-repeat center;
+  }
+  .fund-dialog {
+    .el-dialog__footer {
+      padding: 10px 30px;
+      background-color: #F5F6F7;
+    }
+    .vue-table-detail {
+      border: none;
+      .el-table__body-wrapper {
+        overflow-x: auto;
+      }
+    }
+    .footer-amount {
+      height: 32px;
+      line-height: 32px;
+      font-size: 12px;
+      color: #666666;
+      float: left;
+      text-align: left;
+      .amount-box {
+        display: inline-block;
+        text-align: left;
+      }
+    }
+    .footer-tip {
+      width: 500px;
+      line-height: 32px;
+      text-align: left;
+      font-size: 12px;
+      color: #666666;
+      float: left;
+      &>span {
+        color: #FFA854;
+      }
+    }
+  }
+}

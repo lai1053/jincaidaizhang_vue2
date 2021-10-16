@@ -1,0 +1,45 @@
+{
+  "message": null,
+  "code": "0",
+  "success": true,
+  "data": {
+    "subordinateindustry": "99",
+    "iae_mark": "1",
+    "txm": "201711",
+    "sfzd": "",
+    "archiveCode": "0020000000000388",
+    "permission": "RW",
+    "version": null,
+    "acctsys_id": 101,
+    "acct_level_length": "4-2-2-2-2",
+    "daxx": "{\"cls\":[{\"clid\":\"0020001\",\"clmc\":\"销售\",\"cltxm\":\"00200000000003880001\",\"lxs\":[{\"cllxid\":\"0020101\",\"cllxmc\":\"普票\"},{\"cllxid\":\"0020102\",\"cllxmc\":\"专票\"},{\"cllxid\":\"0020103\",\"cllxmc\":\"其他\"}],\"scys\":0,\"zys\":0},{\"clid\":\"0020002\",\"clmc\":\"采购\",\"cltxm\":\"00200000000003880002\",\"lxs\":[{\"cllxid\":\"0020201\",\"cllxmc\":\"己认证\"},{\"cllxid\":\"0020202\",\"cllxmc\":\"未认证\"},{\"cllxid\":\"0020203\",\"cllxmc\":\"普通发票\"},{\"cllxid\":\"0020204\",\"cllxmc\":\"进项转出\"}],\"scys\":0,\"zys\":0},{\"clid\":\"0020003\",\"clmc\":\"费用\",\"cltxm\":\"00200000000003880003\",\"lxs\":[{\"cllxid\":\"0020301\",\"cllxmc\":\"已认证\"},{\"cllxid\":\"0020302\",\"cllxmc\":\"未认证\"},{\"cllxid\":\"0020303\",\"cllxmc\":\"非专票\"}],\"scys\":0,\"zys\":0},{\"clid\":\"0020004\",\"clmc\":\"资金\",\"cltxm\":\"00200000000003880004\",\"lxs\":[{\"cllxid\":\"0020401\",\"cllxmc\":\"收款\"},{\"cllxid\":\"0020402\",\"cllxmc\":\"付款\"},{\"cllxid\":\"0020403\",\"cllxmc\":\"转款\"}],\"scys\":0,\"zys\":0},{\"clid\":\"0020005\",\"clmc\":\"工资表\",\"cltxm\":\"00200000000003880005\",\"lxs\":[],\"scys\":0,\"zys\":0},{\"clid\":\"0020006\",\"clmc\":\"成本\",\"cltxm\":\"00200000000003880006\",\"lxs\":[],\"scys\":0,\"zys\":0},{\"clid\":\"0020007\",\"clmc\":\"其他\",\"cltxm\":\"00200000000003880007\",\"lxs\":[],\"scys\":0,\"zys\":0},{\"clid\":\"DSY\",\"clmc\":\"待用票据\",\"cltxm\":\"dsy\",\"lxs\":[{\"cllxid\":\"LYP\",\"cllxmc\":\"留用票据\"},{\"cllxid\":\"DDP\",\"cllxmc\":\"待定票据\"},{\"cllxid\":\"FP\",\"cllxmc\":\"作废票据\"}],\"scys\":0,\"zys\":0}],\"qyid\":\"f92ec5d6d3aa462eb8f61abd80a22098\",\"qysbh\":\"91441302303802238N\",\"ssyf\":\"201711\",\"txm\":\"0020000000000388\"}",
+    "entAcctVO": {
+      "id": 223,
+      "code": "f92ec5d6d3aa462eb8f61abd80a22098",
+      "name": "惠州三合亿电子有限公司",
+      "uuid": "f92ec5d6d3aa462eb8f61abd80a22098",
+      "server_region_id": 6,
+      "acct_uuid": "3477b3a7-d6d5-4cf7-86fb-3323709bc8d9",
+      "ind_type_id": 99,
+      "vat_id": 2,
+      "acct_book": {
+        "uuid": "3477b3a7-d6d5-4cf7-86fb-3323709bc8d9",
+        "name": "惠州三合亿电子有限公司",
+        "start_acct_year": 2017,
+        "start_acct_period": 8,
+        "crnt_acct_year": 2017,
+        "crnt_acct_period": 8,
+        "vat_id": 2,
+        "acctsys_id": 101,
+        "acct_level": 5,
+        "acct_level_length": "4-2-2-2-2",
+        "version": null
+      },
+      "iae_type_id": 1,
+      "taxpayer_id": "91441302303802238N",
+      "nei_type_src_code": "4190"
+    },
+    "lcbs": "2",
+    "checkoutFlag": "N"
+  }
+}
